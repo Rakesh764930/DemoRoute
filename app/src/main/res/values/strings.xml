@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RouteDemo</string>
+    <string name="api_key">AIzaSyB0x3UouAkkoxPrN17yi3LUzg2JO2pnFxU</string>
+    <string name="api_key_places">AIzaSyDK2Du7rvxW4d4NQmKg8qAyxaZ0dGgaY5k</string>
+</resources>
